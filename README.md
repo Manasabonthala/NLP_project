@@ -220,7 +220,7 @@ Streamlit Web Application
 
 # 👨‍💻 Author
 
-**Bhagavatula Kowlini**
+** Bonthala manasa**
 
 Machine Learning & NLP Project
 
