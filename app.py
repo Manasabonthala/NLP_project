@@ -30,7 +30,7 @@ st.set_page_config(
 # ============================================================
 
 st.title(
-    "🌍 Language Detection using Deep Learning"
+    "🌍 Language Detection using Natural Language Processing Learning"
 )
 
 
